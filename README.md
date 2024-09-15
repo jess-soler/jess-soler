@@ -8,8 +8,8 @@
 - ☑️ I have a passion for writing beautiful, organized, and well-documented code
 
 
-  - | Rank | Languages |
-  - |-----:|-----------|
-  - |     1| Python    |
-  - |     2| Java      |
-  - |     3| C++       |
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Java      |
+|     3| C++       |
