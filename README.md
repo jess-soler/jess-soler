@@ -1,4 +1,4 @@
-## Hi there 👋
+## HelloWorld! 👋
 
 - 🔭 I’m currently working on a Mars Rover simulation through the NASA NE Space Grant program.
 - 🌱 I’m currently learning Python, Java, C++, Kali Linux
