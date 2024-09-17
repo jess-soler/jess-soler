@@ -6,7 +6,7 @@
 - 🎓 I am a Sophmore at WNCC working on my BS in Computer Science with a 4.0 GPA.
 - 📫 My LinkedIn: https://www.linkedin.com/in/jessica-soler-80233a155/
 - ⚡ Fun fact: I am a stay-at-home mom and I like to play the drums.
-- ☑️ I have a passion for writing logical, organized, and well-documented code that is easy to read.
+- ☑️ I have a passion for writing organized and well-documented code that is easy to read.
 
 ## My Current Languages
 | Rank | Languages |
