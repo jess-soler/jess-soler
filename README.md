@@ -5,7 +5,7 @@
 - 📒I'm integrating hardware (barcode scanner) into my library database application to automate the entry process.
 - 🌱 I'm collaborating on an Aquaponics sensor project.
 - 🛡️ I’m learning ethical hacking with Kali Linux.
-- 🎓 I am a Sophmore at WNCC working on my BS in Computer Science with a 4.0 GPA.
+- 🎓 I am a Sophmore at WNCC working on my BS in Computer Science with acumulative 4.0 GPA.
 - 📫 My LinkedIn: https://www.linkedin.com/in/jessica-soler-80233a155/
 - ⚡ Fun fact: I am a stay-at-home mom and I like to play the drums.
 - ☑️ I have a passion for writing organized and well-documented code that is easy to read.
