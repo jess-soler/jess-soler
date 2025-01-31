@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m working on a Mars Rover simulation through the NASA NE Space Grant program.
-- 📒I'm integrating hardware (barcode scanner) to automate the entry process of my library database app.
+- 📒I'm integrating hardware (barcode scanner) into my library database application to automate the entry process.
 - 🌱 I'm collaborating on an Aquaponics sensor project.
 - 🛡️ I’m learning ethical hacking with Kali Linux.
 - 🎓 I am a Sophmore at WNCC working on my BS in Computer Science with a 4.0 GPA.
