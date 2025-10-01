@@ -7,7 +7,7 @@
 - 🛡️ I’m learning ethical hacking with Kali Linux.
 - 🎓 I am in my junior year at Southern New Hampshire University.
 - :chart_with_upwards_trend: Pursuing a computer science bachelor's with a concentration in data science and a minor in mathematics.
-- 📫 My LinkedIn: https://www.linkedin.com/in/jessica-soler-80233a155/
+- 📫 My LinkedIn: https://www.linkedin.com/in/jess-soler/
 - ⚡ Fun fact: I am a stay-at-home mom and I like to play the drums.
 - ☑️ I have a passion for writing organized and well-documented code that is easy to read.
 
