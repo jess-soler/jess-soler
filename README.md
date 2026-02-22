@@ -13,3 +13,8 @@
 |     2| C++       |
 |     3| Java      |
 |     4| SQL       |
+|     5| HTML      |
+|     6| CSS       |
+|     7| JavaScript|
+|     8| MATLAB    |
+
