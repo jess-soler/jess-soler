@@ -7,15 +7,5 @@
 - 📫 My LinkedIn: https://www.linkedin.com/in/jess-soler/
 - ⚡ Fun fact: I am a stay-at-home mom and I like to play the drums.
 
-## My Current Languages
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| C++       |
-|     3| Java      |
-|     4| SQL       |
-|     5| HTML      |
-|     6| CSS       |
-|     7| JavaScript|
-|     8| MATLAB    |
-
+“If you think it's simple, then you have misunderstood the problem.” 
+— Bjarne Stroustrup, Creator of C++
